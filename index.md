@@ -4,3 +4,7 @@
  ```python
 str="Good Morning"
 ```
+- [x] intro to github
+- [x] intro to command line
+- [x] intro to html
+- [ ] intro to markdown 
